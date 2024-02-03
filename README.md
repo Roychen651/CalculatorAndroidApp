@@ -14,8 +14,8 @@
 <h2>Screenshots</h2>
 
 
-<img src="calc1.png" alt="Screenshot 1" width="400">
-<img src="calc2.png" alt="Screenshot 2" width="400">
+<img src="calculator1.png" alt="Screenshot 1" width="400">
+
 
 
   <h2>Features</h2>
