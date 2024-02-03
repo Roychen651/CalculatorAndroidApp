@@ -37,7 +37,7 @@
     <li>Clone the repository to your local machine:</li>
   </ol>
 
-  <code>git clone https://github.com/your-username/simple-calculator-app.git</code>
+  <code>git clone https://github.com/Roychen651/CalculatorAndroidApp.git
 
   <ol start="2">
     <li>Open the project in Android Studio.</li>
@@ -54,20 +54,6 @@
     <li>Use the AC button to clear the current calculation, and the DEL button to delete the last entered digit.</li>
   </ol>
 
-  <h2>Screenshots</h2>
-
-  <img src="screenshots/screenshot1.png" alt="Screenshot 1">
-  <img src="screenshots/screenshot2.png" alt="Screenshot 2">
-
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-  <h2>Acknowledgments</h2>
-
-  <p>Thanks to <a href="https://www.openai.com/">OpenAI</a> for providing the underlying technology that powers this assistant.</p>
-
-  <p>Feel free to explore, modify, and use this calculator app as a starting point for your Android development projects!</p>
 
 </body>
 </html>
