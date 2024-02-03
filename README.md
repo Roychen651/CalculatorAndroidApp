@@ -9,7 +9,7 @@
 
   <h1>Simple Calculator App</h1>
 
-  <p>This is a basic Android calculator app developed using Java and Android Studio. The app provides a simple user interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division.</p>
+  <p>This is a basic Android calculator app developed using Java and Android Studio.</br> The app provides a simple user interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division.</p>
 
   <h2>Features</h2>
 
