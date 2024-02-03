@@ -23,11 +23,6 @@
     <li><strong>Equal Button (=):</strong> Calculate the result of the entered expression.</li>
   </ul>
 
-  <h2>Getting Started</h2>
-
-  <h3>Prerequisites</h3>
-
-
   <h2>Usage</h2>
 
   <ol>
