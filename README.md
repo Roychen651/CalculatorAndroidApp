@@ -11,7 +11,14 @@
 
   <p>This is a basic Android calculator app developed using Java and Android Studio.</br> The app provides a simple user interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division.</p>
 
+<h2>Screenshots</h2>
+
+<img src="screenshots/calc1.jpg" alt="Screenshot 1" width="400">
+<img src="screenshots/calc2.jpg" alt="Screenshot 2" width="400">
+
+
   <h2>Features</h2>
+
 
   <ul>
     <li><strong>ON/OFF Functionality:</strong> Toggle the calculator on and off.</li>
