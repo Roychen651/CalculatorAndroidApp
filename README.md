@@ -27,22 +27,6 @@
 
   <h3>Prerequisites</h3>
 
-  <ul>
-    <li>Android Studio installed on your development machine.</li>
-  </ul>
-
-  <h3>Installation</h3>
-
-  <ol>
-    <li>Clone the repository to your local machine:</li>
-  </ol>
-
-  <code>git clone https://github.com/Roychen651/CalculatorAndroidApp.git
-
-  <ol start="2">
-    <li>Open the project in Android Studio.</li>
-    <li>Run the app on an emulator or a physical Android device.</li>
-  </ol>
 
   <h2>Usage</h2>
 
