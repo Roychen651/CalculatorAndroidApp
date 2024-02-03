@@ -13,8 +13,8 @@
 
 <h2>Screenshots</h2>
 
-<img src="screenshots/calc1.jpg" alt="Screenshot 1" width="400">
-<img src="screenshots/calc2.jpg" alt="Screenshot 2" width="400">
+<img src="screenshots/calc1.png" alt="Screenshot 1" width="400">
+<img src="screenshots/calc2.png" alt="Screenshot 2" width="400">
 
 
   <h2>Features</h2>
