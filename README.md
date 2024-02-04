@@ -14,7 +14,7 @@
 <h2>Screenshots</h2>
 
 
-<img src="calculator1.png" alt="Screenshot 1" width="400">
+<img src="calcPhoto.png" alt="Screenshot 1" width="400">
 
 
 
