@@ -36,8 +36,9 @@
 
             <Button
                 android:id="@+id/on"
-                android:text="ON"
-                style="@style/Button1" />
+                style="@style/Button1"
+                android:background="@drawable/shape3"
+                android:text="ON" />
             <Button
                 android:id="@+id/num7"
                 android:text="7"
@@ -65,8 +66,9 @@
 
             <Button
                 android:id="@+id/off"
-                android:text="OFF"
-                style="@style/Button1"/>
+                style="@style/Button1"
+                android:background="@drawable/shape3"
+                android:text="OFF" />
             <Button
                 android:id="@+id/num8"
                 android:text="8"
